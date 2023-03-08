@@ -22,7 +22,9 @@ Diretoria financeira.
 Dias 5,10,15,20,25 e 30
 
 ## Regras
-. Não pode ser enviado depois do dia 10 de Dezembro
-. Deve ser enviado para todos os numeros que constam no grupo do Whatsapp da Titans
-. Tomar cuidado com fevereiro. Não existe dia 30 de fevereiro.
-. 
+[] Não pode ser enviado depois do dia 10 de Dezembro
+
+[] Deve ser enviado para todos os numeros que constam no grupo do Whatsapp da Titans
+
+[] Tomar cuidado com fevereiro. Não existe dia 30 de fevereiro.
+
